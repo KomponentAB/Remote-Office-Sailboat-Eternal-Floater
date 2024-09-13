@@ -924,13 +924,13 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.10.2",
+ "tiledversion":"1.11.0",
  "tileheight":32,
  "tilesets":[
         {
          "columns":80,
          "firstgid":1,
-         "image":"tilesets\/Modern_Ship.png",
+         "image":"..\/tilesets\/Modern_Ship.png",
          "imageheight":2560,
          "imagewidth":2560,
          "margin":0,
